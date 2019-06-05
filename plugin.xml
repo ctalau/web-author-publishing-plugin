@@ -3,7 +3,7 @@
 <!DOCTYPE plugin SYSTEM "../plugin.dtd">
 
 <plugin
-    class="ro.sync.exml.plugin.Plugin"
+    class="com.oxygenxml.webapp.publish.PublishingPlugin"
 
     id=" web-author-publishing-plugin"
     name="Web Author Publishing Plugin"
@@ -18,9 +18,6 @@
   </runtime>
 
   <!-- Add extensions here-->
-
-  <!-- Example extensions: -->
-  <extension type="WebappServlet" class="com.oxygenxml.SampleWebappServletPluginExtension"/>
 
   <!-- You can access static files at XML_WEB_AUTHOR/plugin-resources/ web-author-publishing-plugin/ -->
   <extension type="WebappStaticResourcesFolder" path="web/static/" href=" web-author-publishing-plugin"/>
