@@ -1,7 +1,7 @@
 Publishing support for Web Author
 =================================
 
-This plugin sends the document to be published to a publishing service. Currently it works best with ctalau/xmlpaper-lambda as a backend.
+This plugin sends the document to be published to a publishing service. Currently it works best with https://github.com/ctalau/xmlpaper-lambda as a backend.
 
 
 TODO: 
