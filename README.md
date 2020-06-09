@@ -1,7 +1,7 @@
 Publishing support for Web Author
 =================================
 
-This plugin sends the document to be published to a publishing service. Currently it works best with https://github.com/ctalau/xmlpaper-lambda as a backend.
+This plugin adds a **Generate PDF** action in the contextual menu of Web Author. It sends the document to be published to a publishing service and retrieves the PDF file. Currently it works with https://github.com/ctalau/xmlpaper-lambda as a backend publishing service.
 
 
 TODO: 
